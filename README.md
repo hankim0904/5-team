@@ -9,3 +9,4 @@ for practice git
 여러분의 취미를 적어주세요
 - 재환 : 수영
 
+- 재환 : 충돌 확인 및 충돌 resolve 확인
