@@ -14,3 +14,4 @@ for practice git
 - 필겸 : 헬스
 
 
+- 재환 : 충돌 확인 및 충돌 resolve 확인
