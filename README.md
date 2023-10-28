@@ -14,4 +14,8 @@ for practice git
 - 필겸 : 헬스
 
 
+<<<<<<< HEAD
 - 재환 : 충돌 확인 및 충돌 resolve 확인
+- 교통체증 헬 
+=======
+>>>>>>> parent of e7ff8ae (conflict check and conflict resolve)
